@@ -1,0 +1,7 @@
+# Tested user workflow: Python 3.11 on Windows
+numpy
+pandas
+vectorbt
+yfinance
+psxdata
+plotly

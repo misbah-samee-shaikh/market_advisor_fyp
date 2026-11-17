@@ -1,0 +1,14 @@
+# Local environments and generated data
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+# Cached prices and generated reports are reproducible artifacts
+data/
+reports/
+*.log
